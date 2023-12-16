@@ -1,6 +1,6 @@
 print()
 print('Meral Hamarat')
-print('December 20th 2023')
+print('December 16th 2023')
 print("""
 I am signing up for Replit's 100 days of Python challenge!
 I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.
