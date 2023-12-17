@@ -8,6 +8,8 @@ if favDizi == "yavuz":
     if tatlı == "tulumba":
         serenad = input("hadi bunu bil! İlk sezonda Mecnun'un Leyla'ya serenad yaptığı arabesk şarkı nedir?")
         if serenad == "sevdalılar beni anlar":
+            semt = input("Pekiii, bu minnoş sıcacık dizimiz İstanbul'un hangi güzide semtinde çekilmiştir?")
+            if semt == "kireçburnu":
                 yavuz = input("Yavuz yeni tanıştığı kişilere kendi mesleğini ne olarak tanıtıyordu?")
                 if yavuz == "performans sanatçısı":
                     print("Helal la hepsini bildin, Demek ki Leyla ile Mecnun senin için bir diziden daha fazlası...")
