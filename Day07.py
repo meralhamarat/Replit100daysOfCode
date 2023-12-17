@@ -14,4 +14,4 @@ if favDizi == "yavuz":
                 if yavuz == "performans sanatçısı":
                     print("Helal la hepsini bildin, Demek ki Leyla ile Mecnun senin için bir diziden daha fazlası...")
 else:
-    print("Piii, sen hiç leyla ile mecnun izlememişsin ki!")
+    print("\033[31mPiii, sen hiç leyla ile mecnun izlememişsin ki!\033[0m")
