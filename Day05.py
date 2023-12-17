@@ -1,6 +1,6 @@
-print("Marvel Movie Character Creator")
-print("--")
 print()
+print("\033[31mMarvel Movie Character Creator\033[0m")
+print("--")
 print("Answer these questions and let's find out.")
 print()
 print("Please use 'yes' and 'no' for answer.")
