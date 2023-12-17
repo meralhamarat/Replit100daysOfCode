@@ -12,6 +12,6 @@ if favDizi == "yavuz":
             if semt == "kireçburnu":
                 yavuz = input("Yavuz yeni tanıştığı kişilere kendi mesleğini ne olarak tanıtıyordu?")
                 if yavuz == "performans sanatçısı":
-                    print("Helal la hepsini bildin, Demek ki Leyla ile Mecnun senin için bir diziden daha fazlası...")
+                    print("\033[33mHelal la hepsini bildin, Demek ki Leyla ile Mecnun senin için bir diziden daha fazlası...\033[0m")
 else:
     print("\033[31mPiii, sen hiç leyla ile mecnun izlememişsin ki!\033[0m")
