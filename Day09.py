@@ -8,7 +8,7 @@ elif year  >= 1947 and  year <= 1964:
 elif year >= 1965 and year <= 1981:
     print("What's up, Generation X!You guys rocked the '80s and '90s. Keep that rebellious spirit alive!")
 elif year >= 1982 and year <= 1995:
-    print("Hey Millennials, keep adulting like pros and turning avocado toast into a lifestyle.")
+    print("Hey yo Millennials, keep adulting like pros and turning avocado toast into a lifestyle.")
 elif year >= 1996:
     print("Hey, Gen Z! TikTok much?")
 else:
