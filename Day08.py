@@ -46,3 +46,7 @@ elif name == "Irem" or name == "irem":
     if day == "sunday" or day == "Sunday":
         print("""It's 'Serene Sunday'! Reflect on your blessings, find peace in the moment,
     and recharge for a week ahead filled with new experiences.""")
+else:
+    print("""I don't know who you are but wishing you a wonderful week ahead.
+May it be filled with inspiring moments, hopeful surprises, and achievements.
+Share your positive energy, smile, and savor the moments. Wishing you a fantastic week! """)
