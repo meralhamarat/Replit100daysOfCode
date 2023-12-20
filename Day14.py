@@ -17,7 +17,7 @@ if firstPlayer == "R":
     print("Player1 smashed Player2's Scissors into dust with their Rock!")
   else:
       print("Invalid Move Player 2!")
-if firstPlayer == "P":
+elif firstPlayer == "P":
     if secondPlayer == "P":
         print("You both picked Paper, draw!")
     elif secondPlayer == "R":
@@ -26,7 +26,7 @@ if firstPlayer == "P":
         print("Player1's Paper is cut into tiny pieces by Player2's Scissors!")
     else:
         print("Invalid Move Player 2!")
-if firstPlayer == "S":
+elif firstPlayer == "S":
     if secondPlayer == "S":
         print("Ka-Shing! Scissors bounce off each other like a dodgy sword fight! Draw.")
     elif secondPlayer == "P":
