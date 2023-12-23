@@ -15,7 +15,3 @@ for i in range(1, 11):
   else:
     print(f"Wrong! The correct answer is {solution}.")
     print("Your score is", counter, "/10")
-
-
-
-
