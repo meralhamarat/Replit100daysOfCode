@@ -8,7 +8,7 @@ def play():
   input("Press Enter to stop the song.")
 
 while True:
-  os.system('clear' if os.name == 'posix' else 'cls')
+  os.system("clear")
   print("\033[34m🎵 MyPOD Music Player\033[0m")
   time.sleep(1)
   print("\033[33mPress 1 to Play")
