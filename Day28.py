@@ -91,4 +91,5 @@ time.sleep(2)
 os.system("clear")
 print("\033[92m⚔️ SAVAŞ ZAMANI ⚔️\033[0m")
 print()
-print(kazanan, "kazandı, toplamda", round, "tur")
+print(kazanan, " toplamda", round, "turda kazandı")
+
