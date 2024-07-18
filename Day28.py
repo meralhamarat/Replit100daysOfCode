@@ -43,7 +43,7 @@ round = 1
 kazanan = None
 
 while True:
-    time.sleep(1)
+    time.sleep(2)
     os.system("clear")
     print("\033[93m⚔️ SAVAŞ BAŞLIYORR!!!! ⚔️\033[0m")
     print()
